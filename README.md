@@ -1,5 +1,5 @@
 # FROGGER
-Experience the thrill of classic arcade action with Frogger, a modern remake of the legendary Frogger! Guide your character across busy roads and treacherous rivers, avoiding speeding cars, tricky logs, and lurking dangers. Precision timing and quick reflexes are key to survival!
+Experience the thrill of classic arcade action with Frogger, a modern remake of the legendary Frogger! Guide your character across busy avoiding and speeding cars. Precision timing and quick reflexes are key to survival!
 
 ## How to run the game
 
